@@ -18,7 +18,7 @@ h1 {
 
 nav {
   width: 600px;
-  display: flex;
+  display: index-flex;
   justify-content: center;
   position: relative;
   background: linear-gradient(90deg, #051937, #004d7a, #008793, #00bf72, #a8eb12);
