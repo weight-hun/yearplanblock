@@ -17,7 +17,7 @@ h1 {
 }
 
 nav {
-  width: 600px;
+  width: 100%;
   display: index-flex;
   justify-content: center;
   position: relative;
